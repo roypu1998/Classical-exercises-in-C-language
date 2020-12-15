@@ -9,4 +9,5 @@ Checking a number whether it is a palindrome or not.
 Finding the second number after exchanging variables and subtracting them from each other.
 
 And finding all the prime numbers between 2 and 100.
+
 Enjoy.
